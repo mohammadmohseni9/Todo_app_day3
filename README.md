@@ -1,6 +1,10 @@
 # todo_app_day3
 
-A new Flutter project.
+with 
+Hive Database package
+google_fonts
+flutter_svg
+flutter_native_splash 
 
 ## Getting Started
 
